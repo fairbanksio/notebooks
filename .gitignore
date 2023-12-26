@@ -1,0 +1,11 @@
+.ipython/
+.jupyter/
+.local/
+.cache/
+.npm/
+collection_*/
+collection_*.zip
+.env
+whisperx/*.mp3
+whisperx/*.vtt
+whisperx/archive.txt
