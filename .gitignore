@@ -9,3 +9,6 @@ collection_*.zip
 whisperx/*.mp3
 whisperx/*.vtt
 whisperx/archive.txt
+llm/temp/*
+llm/jonfairbanks_repos.json
+.DS_Store
