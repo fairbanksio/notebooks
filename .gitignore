@@ -12,3 +12,5 @@ whisperx/archive.txt
 llm/temp/*
 llm/jonfairbanks_repos.json
 .DS_Store
+scrape/scrolller/*
+scrape/archive.txt
