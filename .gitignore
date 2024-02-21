@@ -14,3 +14,5 @@ llm/jonfairbanks_repos.json
 .DS_Store
 scrape/scrolller/*
 scrape/archive.txt
+other/input/
+other/output/
